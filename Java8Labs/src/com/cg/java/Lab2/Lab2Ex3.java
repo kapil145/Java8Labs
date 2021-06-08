@@ -13,7 +13,7 @@ public class Lab2Ex3 {
 			arr[start] = arr[end];
 			arr[end] = temp;
 			
-			start--;
+			start++;
 			end--;
 		}
 		System.out.println("");
