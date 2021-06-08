@@ -14,7 +14,7 @@ public class Lab2Ex3 {
 			arr[end] = temp;
 			
 			start++;
-			end--;
+			end++;
 		}
 		System.out.println("");
 		System.out.println("Reversed array: " +Arrays.toString(arr));
