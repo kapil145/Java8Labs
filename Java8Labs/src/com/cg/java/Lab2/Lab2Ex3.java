@@ -13,8 +13,8 @@ public class Lab2Ex3 {
 			arr[start] = arr[end];
 			arr[end] = temp;
 			
-			start++;
-			end++;
+			start--;
+			end--;
 		}
 		System.out.println("");
 		System.out.println("Reversed array: " +Arrays.toString(arr));
