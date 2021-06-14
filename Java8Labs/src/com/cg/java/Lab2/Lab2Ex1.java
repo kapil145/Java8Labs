@@ -1,4 +1,4 @@
-package src.com.cg.java.Lab2;
+package com.cg.java.Lab2;
 
 import java.util.Arrays;
 import java.util.Scanner;
